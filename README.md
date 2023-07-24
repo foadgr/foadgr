@@ -1,6 +1,6 @@
 ## Foad Green
 
-### ML and NLP Data Scientist currently in San Diego
+### ML and NLP Data Scientist
 #### [Email](mailto:foadgreen@gmail.com)  /  [Resume](https://foadgr.github.io/cv/)  /  [LinkedIn](https://www.linkedin.com/in/foadgreen) /  [Github](https://www.github.com/foadgr)
 
 
