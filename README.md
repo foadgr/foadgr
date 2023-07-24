@@ -10,7 +10,7 @@
 
 - This CLI framework uses OpenAI GPT-3.5 to facilitate a conversation with OpenTargets GraphQL API for genetic & clinical insights 
 - Check out the [project repository](https://github.com/foadgr/chatGPT-for-genetics)
-- See it in action in this [demo video](https://www.youtube.com/watch?v=kAf7GuBpOAU)<br>  ![demo video](/resources/chatwithopentargets.gif).
+- See it in action in this [demo video](https://www.youtube.com/watch?v=kAf7GuBpOAU)<br>  ![demo video](/resources/chatwithopentargets.gif)
 
 ### 💡 My Interests
 
