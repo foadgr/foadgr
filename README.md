@@ -10,7 +10,7 @@ _*ML and NLP Data Scientist currently based in San Diego*_
 
 A recent project, "Chat with OpenTargets," uses a GPT-3.5 model that facilitates a conversation with OpenTargets for genetic and clinical insights. 
 
-Check out the [project repository](https://github.com/foadgr/chatGPT-for-genetics) and see it in action in this ![demo video](/resources/chatwithopentargets.gif).
+Check out the [project repository](https://github.com/foadgr/chatGPT-for-genetics) and see it in action in this [demo video](https://www.youtube.com/watch?v=kAf7GuBpOAU) ![demo video](/resources/chatwithopentargets.gif).
 
 ### 💡 My Interests
 
