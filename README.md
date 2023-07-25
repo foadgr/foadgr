@@ -6,7 +6,7 @@
 
 ### 🚀 Recent Project: 
 
-**Chat with OpenTargets (7/20/2023)**
+**Chat with OpenTargets (July 2023)**
 
 - This CLI framework uses OpenAI GPT-3.5 to facilitate a conversation with OpenTargets GraphQL API for genetic & clinical insights 
 - Check out the [project repository](https://github.com/foadgr/chatGPT-for-genetics)
