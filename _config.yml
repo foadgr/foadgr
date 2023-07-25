@@ -7,3 +7,4 @@ description: Foad Green's Page
 google_analytics: G-P0YY5WPSMP
 plugins:
   - jekyll-seo-tag
+logo: /assets/images/logo.png
