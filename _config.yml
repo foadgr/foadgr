@@ -1,4 +1,9 @@
 theme: jekyll-theme-minimal
 title: 💻
+author:
+  name: Foad Green
+  email: foadgreen@gmail.com
 description: Foad Green's Page
-google-analytics: G-7F2CWH7LQP
+google-analytics: G-Z79RST2SYC
+plugins:
+  - jekyll-seo-tag
