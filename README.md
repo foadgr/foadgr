@@ -7,7 +7,8 @@
 ### 🚀 Recent Project: 
 
 **Chat with OpenTargets (July 2023)**
-
+- **Website deployed (July 26, 2023):** 
+    - Interact with our OpenTargets Chat AI at [opentargets.foadgreen.com](http://opentargets.foadgreen.com)
 - This CLI framework uses OpenAI GPT-3.5 to facilitate a conversation with OpenTargets GraphQL API for genetic & clinical insights ([GitHub project repository](https://github.com/foadgr/chatGPT-for-genetics)).
 - Check out the web interface for Chat with OpenTargets ([Youtube](https://www.youtube.com/watch?v=AVcRzQQW0Sg))<br> ![demo video](/assets/images/chatwithopentargets_web.gif)
 - See the CLI in action in this [demo video](https://www.youtube.com/watch?v=kAf7GuBpOAU)<br>  ![demo video](/assets/images/chatwithopentargets.gif)
