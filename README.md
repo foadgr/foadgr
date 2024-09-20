@@ -6,7 +6,7 @@
 
 ### 🚀 Recent Projects: 
 
-**[Supertrade](https://legaldocsai.com) (Coming Soon)**
+**[Supertrade](https://getsupertrade.com) (Coming Soon)**
 - Your options trading advisor powered by AI
 
 **[LegalDocs AI: Contracts Intelligence](https://legaldocsai.com) (August 2024)**
