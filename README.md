@@ -1,6 +1,5 @@
 ## Foad Green
 
-### ML Engineer
 #### [Email](mailto:foadgreen@gmail.com)  /  [Resume](https://www.foadgreen.com)  /  [LinkedIn](https://www.linkedin.com/in/foadgreen) /  [Github](https://www.github.com/foadgr)
 
 
